@@ -1,17 +1,3 @@
-CCC1=[O+][Cu-3]2([O+]=C(CC)C1)[O+]=C(CC)CC(CC)=[O+]2 MOL0001
-C(=Cc1ccccc1)C1=[O+][Cu-3]2([O+]=C(C=Cc3ccccc3)CC(c3ccccc3)=[O+]2)[O+]=C(c2ccccc2)C1 MOL0002
-BALHH
-CC(=O)N1c2ccccc2Sc2c1ccc1ccccc21 MOL0003
-Nc1ccc(C=Cc2ccc(N)cc2S(=O)(=O)O)c(S(=O)(=O)O)c1 MOL0004
-O=S(=O)(O)CCS(=O)(=O)O MOL0005
-CCOP(=O)(Nc1cccc(Cl)c1)OCC MOL0006
-O=C(O)c1ccccc1O MOL0007
-CC1=C2C(=COC(C)C2C)C(O)=C(C(=O)O)C1=O MOL0008
-O=[N+]([O-])c1ccc(SSc2ccc([N+](=O)[O-])cc2[N+](=O)[O-])c([N+](=O)[O-])c1 MOL0009
-O=[N+]([O-])c1ccccc1SSc1ccccc1[N+](=O)[O-] MOL0010
-CC(C)(CCC(=O)O)CCC(=O)O MOL0011
-O=C(O)Cc1ccc(SSc2ccc(CC(=O)O)cc2)cc1 MOL0012
-O=C(O)c1ccccc1SSc1ccccc1C(=O)O MOL0013
 CCCCCCCCCCCC(=O)Nc1ccc(SSc2ccc(NC(=O)CCCCCCCCCCC)cc2)cc1 MOL0014
 Sc1cccc2c(S)cccc12 MOL0015
 CCOP(N)(=O)c1ccccc1 MOL0016
