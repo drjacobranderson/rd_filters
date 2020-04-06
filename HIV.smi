@@ -1,5 +1,6 @@
 CCC1=[O+][Cu-3]2([O+]=C(CC)C1)[O+]=C(CC)CC(CC)=[O+]2 MOL0001
 C(=Cc1ccccc1)C1=[O+][Cu-3]2([O+]=C(C=Cc3ccccc3)CC(c3ccccc3)=[O+]2)[O+]=C(c2ccccc2)C1 MOL0002
+BALHH
 CC(=O)N1c2ccccc2Sc2c1ccc1ccccc21 MOL0003
 Nc1ccc(C=Cc2ccc(N)cc2S(=O)(=O)O)c(S(=O)(=O)O)c1 MOL0004
 O=S(=O)(O)CCS(=O)(=O)O MOL0005
